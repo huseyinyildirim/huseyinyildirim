@@ -2,8 +2,8 @@
 
 ## Senior Software Developer
 
-I am senior software developer who has 10+ years of experience.
-Turnes user stories into working features by using the technologies C#, PHP, .NET, Vue.js, Flutter, JavaScript.
+I am senior software developer who has 15+ years of experience.
+Turnes user stories into working features by using the technologies .NET Core, .NET, PHP, C#, TypeScript, Vue.js, Flutter, JavaScript.
 
 ### Reach out to me
 
